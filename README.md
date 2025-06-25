@@ -2,6 +2,7 @@ Lichess RPC by plasterdream
 ---
 
 This project is quite new and I intend to make it better with more functions in the future. Also I hope to make it an extension as well so you don't have to run it client-side every time you open lichess.
+
 ---
 
 # Instructions
